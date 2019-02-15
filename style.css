@@ -66,9 +66,10 @@ margin-left: auto;
 }
 
 
-.caption {
+p h1 .caption {
   border: 1px solid black;
 }
+
 
 .title {
   color: MediumAquamarine;
