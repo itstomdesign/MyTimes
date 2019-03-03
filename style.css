@@ -23,6 +23,12 @@ display: flex;
 justify-content: space-between;
 }
 
+.content {
+
+padding-bottom: 50px;
+}
+
+
 /* Header Section */
 
 header {
